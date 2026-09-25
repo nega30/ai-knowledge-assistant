@@ -1,0 +1,31 @@
+[
+    {
+        "question": "What is RAG?",
+        "expected_keywords": [
+            "retrieval",
+            "generation",
+            "LLM"
+        ]
+    },
+    {
+        "question": "What are embeddings?",
+        "expected_keywords": [
+            "vectors",
+            "semantic"
+        ]
+    },
+    {
+        "question": "What is FAISS?",
+        "expected_keywords": [
+            "similarity",
+            "search"
+        ]
+    },
+    {
+        "question": "What is a vector database?",
+        "expected_keywords": [
+            "embeddings",
+            "similarity"
+        ]
+    }
+]
